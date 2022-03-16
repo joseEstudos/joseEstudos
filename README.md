@@ -9,7 +9,7 @@
 </div>
   
 <div style="display: inline_block"><br>
- <img align="center" alt="Rafa-Js" height="30" width="40" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+ <img align="center" alt="Rafa-Js" height="30" width="40" src=" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />">
  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
