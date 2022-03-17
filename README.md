@@ -33,4 +33,3 @@
    <a href="https://www.linkedin.com/in/jos%C3%A9-antonio-785989230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
    <a href = "mailto:jose.empregos@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
-  ![Snake animation](https://raw.githubusercontent.com/joseEstudos/joseEstudos/2daef580149eb6b98d80c13355af4247c1392294/cobrinha.svg)
